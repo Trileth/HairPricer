@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App da Karen</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+
+    <string name="action_settings">Opções</string>
+</resources>
